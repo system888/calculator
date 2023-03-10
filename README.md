@@ -1,3 +1,3 @@
-All in one: addition, subtraction, multiplication and division, calculator made for easy use.
+Text-based Calculator. You can use a Python Compiler online, paste it -> run.
 
 ctrl + c, exit 
