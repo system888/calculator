@@ -1,6 +1,3 @@
-# if the user wants to restart from 0, then what user has to do is KeyboardInterrupt
-# otherwise, the user is always going to be working with an general integer.
-
 operations = [
     ["ADDITION", "Addition", "addition", "ADD", "Add", "add", "+"],
     ["SUBTRACTION", "Subtrcation", "subtraction", "MINUS", "Minus", "minus", "-"],
