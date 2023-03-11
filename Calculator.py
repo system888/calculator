@@ -1,6 +1,6 @@
 operations = [
     ["ADDITION", "Addition", "addition", "ADD", "Add", "add", "+"],
-    ["SUBTRACTION", "Subtrcation", "subtraction", "MINUS", "Minus", "minus", "-"],
+    ["SUBTRACTION", "Subtrcation", "subtraction", "SUBTRACT", "Subtract", "subtract", "MINUS", "Minus", "minus", "-"],
     ["MULTIPLICATION", "Multiplication", "multiplication", "TIMES", "Times", "times", "x", "X"],
     ["DIVISION", "Division", "division", "÷"]
 ]
